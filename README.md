@@ -15,6 +15,7 @@ En aquest informe assaig faré un anàlisi en dos casos de hibridació moderns s
 <!---
 [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 <https://www.markdownguide.org>
+[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw)
 -->
 
 estudiant els canvis socials produits per un esdeveniment que va revolucionar la manera com ens relacionem amb el software avui en dia:
