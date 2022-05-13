@@ -2,7 +2,7 @@
 
 Joan Gómara Barberà
 
-12/05/2022
+14/05/2022
 
 ---
 
@@ -15,7 +15,7 @@ En aquest informe assaig faré un anàlisi en dos casos de hibridació moderns s
 <!---
 [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 <https://www.markdownguide.org>
---->
+-->
 
 estudiant els canvis socials produits per un esdeveniment que va revolucionar la manera com ens relacionem amb el software avui en dia:
 
