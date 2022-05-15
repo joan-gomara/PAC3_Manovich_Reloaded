@@ -12,7 +12,7 @@ En aquest informe assaig faré un anàlisi en dos casos de hibridació moderns e
 
 > Mitjà = algoritmes + una estructura de dades
 >
-> *Lev Manovich*
+> *"Lev Manovich"*
 
 
 ## Redescobrint la hibridació: Skype, una nova manera de comunicar-nos.
