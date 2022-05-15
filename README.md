@@ -7,13 +7,15 @@ Joan Gómara Barberà
 
 ---
 
+<br>
 
 En aquest informe assaig faré un anàlisi en dos casos de hibridació moderns estudiant els canvis socials produïts en la manera de comunicar-nos a través del software. Per fer-ho em centraré en dos exemples que han sigut clau en aquest aspecte: l'arribada de Skype, que va revolucionar la industria de les trucades per internet; i el desenvolupament de Oculus, que està transformant els mitjans actuals amb una nova manera de visualitzar-los, en 3 dimensions.
 
-> Mitjà = algoritmes + una estructura de dades
+> "Mitjà = algoritmes + una estructura de dades"
 >
-> *"Lev Manovich"*
+> *Lev Manovich*
 
+<br>
 
 ## Redescobrint la hibridació: Skype, una nova manera de comunicar-nos.
 
@@ -27,6 +29,7 @@ Skype va continuar expandint-se a nous mercats i al 2010 es van publicar les pri
 
 Skype s'ha establert com la principal plataforma de missatgeria de veu i vídeo en línia, tant per ús personal com professional, en part gràcies a que el novembre de 2012, Microsoft va anunciar que es convertiria en el principal servei de missatgeria i va eliminar Messenger. Fins i tot les organitzacions de mitjans de comunicació l’han començat a utilitzar per proporcionar àudio de major qualitat que la xarxa de telefonia mòbil i enllaços de vídeo a un cost molt més baix que enviar equips professionals o utilitzar un estudi professional.
 
+<br>
 
 ## El futur de la hibridació: Oculus, la revolució de la realitat virtual.
 
@@ -47,6 +50,7 @@ Al 2014 Facebook compra Oculus, es produeix el llançament de Google Cardboard, 
 
 Actualment Facebook (o [Meta](https://about.facebook.com/meta/ "Pàgina comercial de l'empresa Meta")) i altres empreses estan fent grans inversions per la realitat virtual que en combinació amb els metaversos pretenen crear nous horitzons en la realitat virtual. Exemples de metaversos en podem trobar en centenars de sales de xat i jocs com “habbo hotel”, “second life” o “minecraft”, però és amb l’arribada dels “gens” de realitat virtual que es produeix una evolució d’aquestes plataformes o mitjans.
 
+<br>
 
 ## Conclusions
 
@@ -57,6 +61,10 @@ Segon el model de les espècies (biologia evolutiva) descrit per Manovich mitjan
 No hem de deixar d’analitzar aquests nous mitjans ja que moltes empreses estan fent grans inversions en l’àmbit de la realitat virtual i la creació de nous espais virtuals on poder-nos endinsar i generar noves formes d’interaccionar entre nosaltres i amb les possiblitats que aquests universos ens permeten. Un exemple molt clar és la empresa de Facebook que he anomenat en aquest informe, el 28 d’octubre de l’any 2021 va anunciar el canvi del seu nom comercial a [Meta](https://about.facebook.com/meta/ "Pàgina comercial de l'empresa Meta"), accentuant aquesta tendència de les grans corporatives a crear aquests nous universos.
 
 Actualment les possibilitats d’interacció amb els metaversos encara estan molt limitades degut a que les tecnologies no ens permeten rebre prou estímuls per permetre una sensació completament immersiva, però cada any desenvolupem nous avenços que ens acosten cada vegada més a aquest mon virtual. Tot i així no hem de deixar d’observar la veritable realitat.
+
+<br>
+
+<br>
 
 ---
 ## Webgrafia
